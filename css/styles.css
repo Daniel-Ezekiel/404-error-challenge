@@ -1,0 +1,143 @@
+/* Layout section */
+html{
+    font-size: 62.5%;
+}
+
+body{
+    height: 100vh;
+}
+
+body,
+body *{
+    box-sizing: border-box;
+}
+
+header,
+footer{
+    padding: 0 10px;
+}
+
+.hero{
+    padding: 25px 12px;
+    margin-bottom: 75px;
+}
+
+img{
+    display: block;
+    margin: 0 auto;
+    max-width: 80%;
+}
+
+footer{
+    text-align: center;
+}
+
+/* Typography and Color plus other Miscellaneous */
+h3{
+    font-family: 'Inconsolata', monospace;
+    font-size: 1.5rem;
+    padding: 15px 0;
+}
+
+h1,
+p,
+.btn-text{
+    font-family: 'Space Mono', monospace;
+    font-size: 1.25rem;
+}
+
+h1{
+    font-size: 3.8rem;
+}
+
+p{
+    font-size: 1.5rem;
+    margin-bottom: 75px;
+}
+
+.btn{
+    background-color: #333333;
+    padding: 20px 30px;
+    color: #fff;
+    text-decoration: none;
+}
+
+h6,
+h6 a{
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 400;
+    color: #BDBDBD;
+    font-size: 1rem;
+}
+
+h6 span{
+    font-weight: 700;
+}
+
+h6 a{
+    text-decoration: none;
+}
+
+
+/* Media Queries */
+@media screen and (min-width: 540px) {
+    .hero{
+        width: 90%;
+        padding-left: 15px;
+        padding-right: 15px;
+        margin: 0 auto 75px;
+    }
+}
+
+@media screen and (min-width: 768px) {
+    .hero{
+        display: flex;
+    }
+
+    img{
+        padding: 2.5%;
+        width: 50%;
+        height: auto;
+    }
+
+    .error-message{
+        width: 50%;
+        padding: 2.5%;
+    }
+}
+
+@media screen and (min-width: 1024px){
+    h3{
+        font-size: 2rem;
+    }
+
+    .hero{
+        margin-bottom: 140px;
+    }
+
+    h1{
+        font-size: 4.5rem;
+    }
+
+    p{
+        padding-right: 120px;
+        font-size: 1.7rem;
+    }
+
+    .btn{
+        font-size: 1.3rem;
+    }
+}
+
+@media screen and (min-width: 1280px) {
+    .hero{
+        padding-top: 100px;
+        margin-bottom: 230px;
+    }
+
+    p{
+        padding-right: 150px;
+        font-size: 2rem;
+        line-height: 1.5;
+    }
+}
