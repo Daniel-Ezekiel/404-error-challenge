@@ -8,11 +8,11 @@
 
 <div align="center">
   <h3>
-    <a href="https://{your-demo-link.your-domain}">
+    <a href="https://https://404challeng.netlify.app/">
       Demo
     </a>
     <span> | </span>
-    <a href="https://{your-url-to-the-solution}">
+    <a href="https://github.com/Lipkis/404-error-challenge/">
       Solution
     </a>
     <span> | </span>
@@ -36,14 +36,19 @@
 
 ## Overview
 
-![screenshot](https://user-images.githubusercontent.com/16707738/92399059-5716eb00-f132-11ea-8b14-bcacdc8ec97b.png)
+![Mobile](https://github.com/Lipkis/404-error-challenge/blob/main/images/screenshots/404mobile.png)
+![Desktop](https://github.com/Lipkis/404-error-challenge/blob/main/images/screenshots/404desktop.jpg)
 
 Introduce your projects by taking a screenshot or a gif. Try to tell visitors a story about your project by answering:
 
-- Where can I see your demo?
+- Where can I see your demo? 
+   [See my Demo](https://github.com/Lipkis/404-error-challenge/)
 - What was your experience?
+   This challenge has been a real eye opener for me, I've seen my limitations and know what I need to improve on.
 - What have you learned/improved?
+   My use of media queries has become better, and with more practice will keep getting better.
 - Your wisdom? :)
+   Mobile first, always and forever! 
 
 ### Built With
 
