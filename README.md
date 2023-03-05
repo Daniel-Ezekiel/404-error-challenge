@@ -73,6 +73,6 @@ This application/site was created as a submission to a [DevChallenges](https://d
 
 ## Contact
 
-- Website [Portfolio Website](https://www.danielezekiel.me)
-- GitHub [Daniel Ezekiel](https://github.com/daniel-ezekiel)
+- [Portfolio Website](https://www.danielezekiel.me)
+- [LinkedIn](https://linkedin.com/in/db-ezekiel)
 - Twitter [@db_ezekiel](https://twitter.com/db_ezekiel)
